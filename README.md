@@ -1,1 +1,1 @@
-https://github.com/Rajshreenupur/coursera_test/blob/main/Assignment1.html
+https://rajshreenupur.github.io/coursera_test/Assignment1.html
